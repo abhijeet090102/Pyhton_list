@@ -13,3 +13,11 @@ l = n.split()
 am = [int(i) for i in l]
 print(am)'''
     
+'''program for adding , removing element in the list'''
+'''l = [10,20,15,16,80]
+print("list values :",l)
+l.append(int(input('Enter any no ')))
+print(l)
+l.remove(int(input('Enter any no ')))
+print(l)
+'''
